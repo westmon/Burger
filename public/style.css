@@ -1,0 +1,37 @@
+#title{
+	text-align: center;
+	padding: 60px;
+}
+
+
+#eatButton{
+	font-size: 50%;
+
+}
+
+#leftHead{
+	padding-left: 10px; 
+}
+
+body{
+	background-color: yellow;
+}
+
+#createArea {
+
+	text-align: center;
+	padding-top: 50px;
+}
+
+#pic{
+	max-width: 100%;
+}
+
+#createburger {
+	padding: 20px;
+}
+
+#left{
+	padding-right: 15px;
+}
+

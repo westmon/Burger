@@ -1,0 +1,1 @@
+INSERT INTO burgers (burger_name, devoured) VALUE ("Crusty Burger", false), ("Flying Saucer", false), ("Grown Man", false)
